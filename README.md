@@ -1,2 +1,1 @@
-# Scratch
-This is where my scratch projects will go
+# Here all the programs i made in the Girls Who Code Summer Immersion program
